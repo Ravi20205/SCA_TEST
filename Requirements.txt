@@ -1,0 +1,3 @@
+Flask==1.1.2         # ⚠️ Outdated and vulnerable
+PyJWT==1.7.1         # ⚠️ Has known CVEs (CVE-2022-29217)
+requests==2.19.1     # ⚠️ Known security issues (CVE-2018-18074)
